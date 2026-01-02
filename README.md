@@ -3,7 +3,7 @@
 Automatically identify and clean up marketing emails, newsletters you never read, old unread messages, and inbox clutter — for both **Outlook** and **Gmail**.
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey.svg)
 
 ## ✨ Features
@@ -173,7 +173,7 @@ Contributions are welcome! Feel free to:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under CC BY-NC 4.0 - free for personal use, no commercial use allowed. - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
